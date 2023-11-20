@@ -1,0 +1,14 @@
+the links are 
+http://localhost:3001/api/products
+http://localhost:3001/api/products/1
+
+http://localhost:3001/api/users
+http://localhost:3001/api/user/1
+For the api calls, they work but the text is white on white background. If you could help point out what went wrong with this it would be great
+
+to see the users, in the username put "List" and for products, put "Products". The password being just the letter "a"
+
+to run it run 
+npm install
+npm install express body-parser
+node server.js
